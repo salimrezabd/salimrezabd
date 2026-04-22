@@ -16,7 +16,7 @@ to building full-stack web solutions, I focus on clean code and performance.
 - 🌱 I’m currently learning JavaScript / React 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salimrezabd)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimrezabd)](https://github.com/anuraghazra/github-readme-stats)
 
