@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Salim Reza
+# Hi there 👋, I'm Salim Reza
 #### 💻 Full Stack Web Developer | Python | Django | React
 🚹 About Me:
 I’m a passionate web developer who loves turning ideas into real, functional, and user-friendly applications. 
