@@ -5,13 +5,13 @@ I’m a passionate web developer who loves turning ideas into real, functional, 
 From crafting responsive layouts 
 to building full-stack web solutions, I focus on clean code and performance.
 
-Skills: 
-☑ Python 
-☑ Django 
-☑ React 
-☑ JS 
-☑ HTML 
-☑ CSS
+👩🏿‍💻 Skills: 
+<p>☑ Python</p> 
+<p> ☑ Django</p>  
+<p> ☑ React</p>  
+<p> ☑ JS</p> 
+<p> ☑ HTML</p>  
+<p> ☑ CSS</p> 
 
 - 🌱 I’m currently learning JavaScript / React 
 
