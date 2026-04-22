@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Salim Reza
 ## 💻 Full Stack Web Developer | Python | Django | React
 🚹 About Me:
-I’m a passionate web developer who loves turning ideas into real, functional, and user-friendly applications. 
+<p> I’m a passionate web developer who loves turning ideas into real, functional, and user-friendly applications. 
 From crafting responsive layouts 
-to building full-stack web solutions, I focus on clean code and performance.
+to building full-stack web solutions, I focus on clean code and performance.</p> 
 
-👩🏿‍💻 Skills: 
+### 👩🏿‍💻 Skills: 
 <p>☑ Python / Django / React</p>
 <p>☑ JavaScript</p> 
 <p>☑  HTML5 / CSS3 / Bootstrap5</p>
