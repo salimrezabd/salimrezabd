@@ -10,8 +10,8 @@ to building full-stack web solutions, I focus on clean code and performance.
 <p> ☑ Django</p>  
 <p> ☑ React</p>  
 <p> ☑ JS</p> 
-<p> ☑ HTML</p>  
-<p> ☑ CSS</p> 
+<p> ☑  HTML5 / CSS3 / Bootstrap5</p>  
+ 
 
 - 🌱 I’m currently learning JavaScript / React 
 
