@@ -10,14 +10,8 @@ to building full-stack web solutions, I focus on clean code and performance.
 <p>☑ JavaScript</p> 
 <p>☑  HTML5 / CSS3 / Bootstrap5</p>
 <p>☑ Photoshop / Illustrator</p> 
- 
-
-- 🌱 I’m currently learning JavaScript / React 
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimrezabd)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salimrezabd&show_icons=true&count_private=true)  
+ 
 
