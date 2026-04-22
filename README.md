@@ -6,11 +6,10 @@ From crafting responsive layouts
 to building full-stack web solutions, I focus on clean code and performance.
 
 👩🏿‍💻 Skills: 
-<p>☑ Python</p> 
-<p> ☑ Django</p>  
-<p> ☑ React</p>  
-<p> ☑ JS</p> 
-<p> ☑  HTML5 / CSS3 / Bootstrap5</p>  
+<p>☑ Python / Django / React</p>
+<p>☑ JavaScript</p> 
+<p>☑  HTML5 / CSS3 / Bootstrap5</p>
+<p>☑ Photoshop / Illustrator</p> 
  
 
 - 🌱 I’m currently learning JavaScript / React 
