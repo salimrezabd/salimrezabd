@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Salim Reza
 ## 💻 Full Stack Web Developer | Python | Django | React
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 ![Profile views](https://komarev.com/ghpvc/?username=mdrakibulhasan&color=blue)
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### 🚹 About Me:
 <p> I’m a passionate web developer who loves turning ideas into real, functional, and user-friendly applications. 
 From crafting responsive layouts 
